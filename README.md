@@ -5,12 +5,12 @@ This is the my College Project on  Creaating website  Gurkha Martials Arts for M
 PHP.
 
 
-Notes: To Open This Website First You need to Download the Project and you need to Open on Local Server by Using Xamp Control and Needed to
-Start Apache http Server and MYsql Server
-//LocalHost is 3307//
+<b>Notes: To Open This Website First You need to Download the Project and you need to Open on Local Server by Using Xamp Control and Needed to
+Start Apache http Server and MYsql Server </b>
+<b>//LocalHost is 3307//</b>
 
 
-You Need to Create a PHP MYADMIN Database Table. // Login and Register save in PHP MYADMIN database. for more details See the Code.
+<b> You Need to Create a PHP MYADMIN Database Table. // Login and Register save in PHP MYADMIN database. for more details See the Code. </b>
                                                     
                                                       
                                                       ( Just for Educational Purpose) 
@@ -18,7 +18,7 @@ You Need to Create a PHP MYADMIN Database Table. // Login and Register save in P
 --------------------------------------------------------------------------------------------------------------------------------------------
 SCREENSHOT OF WEBSITE:
 ----------------------
-BEFORE LOGIN:
+<b>BEFORE LOGIN:</b>
 
 ![home2](https://github.com/iambishalthapa/GurkhaMartialsArts/assets/140072859/4d325b50-e5f3-4079-9e60-b9382deb69a8)
 
@@ -39,7 +39,8 @@ BEFORE LOGIN:
 ![home10](https://github.com/iambishalthapa/GurkhaMartialsArts/assets/140072859/30b7a169-4257-4627-9824-73f6544e02e0)
 
 
-AFTER LOGIN:
+<b>AFTER LOGIN:</b>
+
 ![home11](https://github.com/iambishalthapa/GurkhaMartialsArts/assets/140072859/7425a360-6616-4217-bbd6-d8cc9e74cb93)
 
 ![home13](https://github.com/iambishalthapa/GurkhaMartialsArts/assets/140072859/466a4758-596d-4419-b539-60f53d01a237)
