@@ -5,9 +5,7 @@ This is the my College Project on  Creaating website  Gurkha Martials Arts for M
 PHP.
 
 
-<b>Notes: To Open This Website First You need to Download the Project and you need to Open on Local Server by Using Xamp Control and Needed to
-Start Apache http Server and MYsql Server </b>
-<b>//LocalHost is 3307//</b>
+<b>Notes: To Open This Website First You need to Download the Project and you need to Open on Local Server by Using Xamp Control </b>
 
 
 <b> You Need to Create a PHP MYADMIN Database Table. // Login and Register save in PHP MYADMIN database. for more details See the Code. </b>
